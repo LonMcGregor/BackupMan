@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<backupDescriptions>
+  <backupObj>
+    <name>Firefox Developer</name>
+    <from>%appdata%\Mozilla\Firefox\Profiles\8jd7b7d5.dev-edition-default\</from>
+    <to>%userprofile%\OneDrive\UsrData\AppData\FirefoxProfile\FDEV-%DATE%.7z</to>
+  </backupObj>
+  <backupObj>
+    <name>Vivaldi</name>
+    <from>%appdata%\..\Local\Vivaldi\User Data\Default</from>
+    <to>%userprofile%\OneDrive\UsrData\AppData\VivaldiProfile\VIVALDI-%DATE%.7z</to>
+  </backupObj>
+</backupDescriptions>
